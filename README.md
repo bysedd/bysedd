@@ -11,11 +11,9 @@
 
 # 📊 GitHub Stats:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=l0p0v&theme=algolia&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0p0v&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-
-
+<!-- footer -->
 [![](https://visitcount.itsvg.in/api?id=l0p0v&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
