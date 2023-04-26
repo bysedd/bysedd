@@ -1,9 +1,9 @@
 # About Me:
-Hi there! My name is Felippe and I am a passionate front-end developer. I have been honing my skills in HTML, CSS, and JavaScript and I'm excited to continue learning new technologies like React and Angular.
+Hello there! My name is Felippe and I'm a Python developer. I've been refining my skills in Python and related libraries like Pandas and NumPy, and I'm eager to explore other technologies like Django.
 
-Fun fact about me: I always use tabs for indentation in my code. I believe it makes my code more readable and consistent. When I'm not coding, you can find me at gym.
+Fun fact about me: I always use tab for indentation in my code. I believe it makes my code more readable and consistent. When I'm not coding, you can find me in the gym.
 
-I'm excited to be a part of the developer community and I look forward to collaborating with other developers on exciting projects!
+I'm thrilled to be a part of the Python developer community and I'm looking forward to collaborating with other developers on exciting projects!
 
 
 ## 🌐 Socials:
@@ -12,7 +12,13 @@ I'm excited to be a part of the developer community and I look forward to collab
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+
+![Python-3776AB](https://user-images.githubusercontent.com/86175721/234671483-4621010c-cbef-4f41-836b-16318947b568.svg)
+![PyCharm-000000](https://user-images.githubusercontent.com/86175721/234671436-fcf27bc4-499a-4942-afb1-22fbb7f81533.svg)
+![Jupyter-F37626](https://user-images.githubusercontent.com/86175721/234671551-5e09a0d2-f244-41b8-8dc0-96c289f675a0.svg)
+![NumPy-013243](https://user-images.githubusercontent.com/86175721/234671524-8f095c2f-bd55-4134-9797-ff0d47d17144.svg)
+![pandas-150458](https://user-images.githubusercontent.com/86175721/234671513-42398378-5c98-4450-8e9b-2a7d59e3b435.svg)
+![Matplotlib-3776AB](https://user-images.githubusercontent.com/86175721/234671537-7f803c89-de22-4388-affc-7ca0acfe7e05.svg)
 
 
 # 📊 GitHub Stats:
