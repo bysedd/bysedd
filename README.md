@@ -16,6 +16,6 @@
 
 
 <!-- footer -->
-[![](https://visitcount.itsvg.in/api?id=l0p0v&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=l0p0v&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
