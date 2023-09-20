@@ -10,7 +10,7 @@
 
 
 # 📊 GitHub Stats:
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=l0p0v&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=l0p0v&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0p0v&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
