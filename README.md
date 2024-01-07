@@ -7,7 +7,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,python,selenium)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=l0p0v&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
