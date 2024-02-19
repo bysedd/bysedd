@@ -1,6 +1,3 @@
-# About Me:
-...
-
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4drade@gmail.com)
 
