@@ -1,11 +1,11 @@
-## 🌐 Socials:
+## 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4drade@gmail.com)
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=anaconda,python,selenium)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=bysedd&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bysedd&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
