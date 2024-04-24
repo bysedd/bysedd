@@ -1,5 +1,5 @@
 # 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=anaconda,python,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,selenium,django,flask,fastapi,sklearn)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=bysedd&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
