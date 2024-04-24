@@ -1,7 +1,3 @@
-## 🌐 Socials
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4drade@gmail.com)
-
-
 # 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=anaconda,python,selenium)](https://skillicons.dev)
 
