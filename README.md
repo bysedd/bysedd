@@ -1,5 +1,5 @@
 # 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,selenium,django,flask,fastapi,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,sklearn,tensorflow)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 
