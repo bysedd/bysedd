@@ -4,10 +4,10 @@
 # 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bysedd&show_icons=true&theme=dark&hide_border=true&hide_rank=true&include_all_commits=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=bysedd&show_icons=true&theme=dark&hide_border=true&hide_rank=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bysedd&theme=dark&size_weight=0.5&count_weight=0.5&hide_border=true&layout=compact" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bysedd&theme=dark&size_weight=0.5&count_weight=0.1&hide_border=true&layout=compact" />
 </a>
 
 <!-- footer -->
